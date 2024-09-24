@@ -1,2 +1,2 @@
 # BMI-Calculator
-BMI Calculator with HTML, CSS, JAVASCRIPT
+BMI Calculator with HTML, CSS, JavaScript
